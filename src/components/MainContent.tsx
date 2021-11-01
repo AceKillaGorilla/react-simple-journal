@@ -40,7 +40,7 @@ function MainContent(): JSX.Element {
         body={
           "I came across the Trolley Problem recently. I found it deeply troubling... why is it called 'the Trolley Problem' when it's actually about trains?"
         }
-        views={2}
+        views={20}
         likes={1}
         postDate={{ month: "July", day: 28, year: 2003 }}
       />
